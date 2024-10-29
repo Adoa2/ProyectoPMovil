@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "miapp",
+            "cwd": "prueba\\miapp",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "miapp (profile mode)",
+            "cwd": "prueba\\miapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "miapp (release mode)",
+            "cwd": "prueba\\miapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "mi_nueva_app",
+            "cwd": "prueba\\mi_nueva_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mi_nueva_app (profile mode)",
+            "cwd": "prueba\\mi_nueva_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "mi_nueva_app (release mode)",
+            "cwd": "prueba\\mi_nueva_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
